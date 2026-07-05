@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "book_title": "Фёдор Михайлович Достоевский — Идиот (1868)",
+    "client_name": "Даниил Тарусин",
+    "client_phone": "89999999999",
+    "quantity": 1,
+    "returned": true
+  },
+  {
+    "id": 2,
+    "book_title": "Фёдор Михайлович Достоевский — Идиот (1868)",
+    "client_name": "Лиара Т’Сони",
+    "client_phone": "86666666666",
+    "quantity": 1,
+    "returned": true
+  },
+  {
+    "id": 3,
+    "book_title": "Стивен Кинг — Кладбище домашних животных (1983)",
+    "client_name": "Лиара Т’Сони",
+    "client_phone": "86666666666",
+    "quantity": 1,
+    "returned": true
+  },
+  {
+    "id": 4,
+    "book_title": "Фёдор Михайлович Достоевский — Идиот (1868)",
+    "client_name": "Даниил Тарусин",
+    "client_phone": "89999999999",
+    "quantity": 1,
+    "returned": true
+  },
+  {
+    "id": 5,
+    "book_title": "Стивен Кинг — Кладбище домашних животных (1983)",
+    "client_name": "Даниил Тарусин",
+    "client_phone": "89999999999",
+    "quantity": 1,
+    "returned": false
+  }
+]

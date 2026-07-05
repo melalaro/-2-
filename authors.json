@@ -1,0 +1,14 @@
+{
+  "Фёдор Михайлович Достоевский": {
+    "birth_date": "",
+    "death_date": "",
+    "alive": false,
+    "photo_url": "https://libryansk.ru/files/media/2020/11/img_2-03.jpg"
+  },
+  "Стивен Кинг": {
+    "birth_date": "1947",
+    "death_date": "",
+    "alive": true,
+    "photo_url": ""
+  }
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "author": "Фёдор Михайлович Достоевский",
+    "title": "Идиот",
+    "year": "1868",
+    "genre": "роман",
+    "pages": 0,
+    "image_url": "https://content.img-gorod.ru/pim/products/images/1f/32/0199eb77-f7ab-7791-8bf6-e1e4411b1f32.jpg",
+    "quantity": 1,
+    "full_title": "Фёдор Михайлович Достоевский — Идиот (1868)"
+  },
+  {
+    "author": "Стивен Кинг",
+    "title": "Кладбище домашних животных",
+    "year": "1983",
+    "genre": "ужасы",
+    "pages": 0,
+    "image_url": "https://avatars.mds.yandex.net/get-entity_search/1327047/336296742/S168x252_2x",
+    "quantity": 18,
+    "full_title": "Стивен Кинг — Кладбище домашних животных (1983)"
+  },
+  {
+    "full_title": "Фёдор Михайлович Достоевский — Бедные люди (1846)",
+    "author": "Фёдор Михайлович Достоевский",
+    "title": "Бедные люди",
+    "year": "1846",
+    "genre": "роман",
+    "pages": 0,
+    "image_url": "",
+    "quantity": 4
+  }
+]
